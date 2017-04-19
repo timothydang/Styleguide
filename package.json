@@ -1,6 +1,6 @@
 {
   "name": "devbridge-styleguide",
-  "version": "0.4.16",
+  "version": "0.4.17",
   "description": "Styleguide automatization tool.",
   "author": "Gediminas Stanaitis <gedas@devbridge.com>",
   "contributors": [
@@ -37,25 +37,25 @@
     "styleguide": "./bin/styleguide"
   },
   "dependencies": {
-    "async": "1.2.1",
-    "body-parser": "1.12.4",
+    "async": "2.3.0",
+    "body-parser": "1.17.1",
     "colors": "1.1.2",
-    "commander": "2.8.1",
-    "express": "4.12.4",
+    "commander": "2.9.0",
+    "express": "4.15.2",
     "format-json": "1.0.3",
-    "jsonfile": "2.0.0",
-    "lodash": "4.0.0",
+    "jsonfile": "2.4.0",
+    "lodash": "4.17.4",
     "mkdirp": "0.5.1",
-    "q": "1.4.1",
-    "request": "2.68.0",
+    "q": "1.5.0",
+    "request": "2.81.0",
     "tcp-port-used": "0.1.2"
   },
   "devDependencies": {
     "gulp": "^3.9.1",
     "gulp-autoprefixer": "^3.1.0",
-    "gulp-sass": "^2.3.2",
+    "gulp-sass": "^3.1.0",
     "gulp-sassvg": "^1.4.2",
-    "morgan": "1.5.1",
+    "morgan": "1.8.1",
     "node-bourbon": "^4.2.8",
     "snyk": "^1.14.1"
   },
